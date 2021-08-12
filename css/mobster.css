@@ -6,7 +6,6 @@
  */
 
 
-
 :root {
   --primary: #3D58F3;
   --secondary: #A52EFF;
@@ -32,10 +31,11 @@ body {
 }
 /*Custom  jenis huruf dan ukuran huruf untuk  Navbar*/
 .nav-item  {
-  font-size:16px;
-  font-family: 'Baloo Bhai 2', cursive;
-  font-weight: bold;
+  font-size:18px;
+  font-family: 'Dosis', sans-serif;
+  font-weight: bolder;
   color:black;
+  margin-left:20px;
 }
 .text-product{
   font-size:15px;
