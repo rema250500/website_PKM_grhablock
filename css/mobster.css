@@ -18,12 +18,13 @@
   --light: #F0EEF5;
   --gray: #6b6872;
   --white: #fff;
-  --font-family: 'Dosis', sans-serif;
+  font-family: 'Quicksand', sans-serif;
   /*--font-family: 'Quicksanzd',dosis, Arial, Helvetica, sans-serif;*/
   --line-height: 1.7;
 }
 body {
-  font-family: 'Dosis', sans-serif;
+  font-family: 'Quicksand', sans-serif;
+  /*font-family: 'Dosis', sans-serif;*/
   /*font-family: 'Quicksand', Arial, Helvetica, sans-serif;*/
   font-size: 16px;
   line-height: 1.7;
@@ -31,7 +32,7 @@ body {
 }
 /*Custom  jenis huruf dan ukuran huruf untuk  Navbar*/
 .nav-item  {
-  font-size:18px;
+  font-size:16px;
   font-family: 'Dosis', sans-serif;
   font-weight: bolder;
   color:black;
