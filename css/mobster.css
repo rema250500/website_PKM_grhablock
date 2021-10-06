@@ -2392,6 +2392,7 @@ hr {
   justify-content: center;
 }
 
+/*pricing  background*/
 .pricing-item {
   display: inline-block;
   margin: 15px;
@@ -2414,16 +2415,18 @@ hr {
   padding-bottom: 32px;
 }
 
+/*pricing  background*/
 .pricing-item.active {
-  background-image: url(..s/img/pricing_pattern.svg);
+  background-image: url(../img/pricing_pattern.svg);
 }
 
 .active .pricing-header h1 {
   color: #602FDA;
 }
 
+/*font has changed*/
 .pricing-header h5{
-  font-family:baloo bhai;
+  font-family: 'Baloo Bhai 2', cursive;
 }
 
 .pricing-item:not(.active) .theme-list .list-item::before {
